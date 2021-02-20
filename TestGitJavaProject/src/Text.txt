@@ -1,0 +1,1 @@
+By using fetch from upstream first this adds in local reposotories and then click on merge will add it to workspace..
